@@ -642,6 +642,7 @@ Made with ❤️ in India 🇮🇳
 
 ⭐ Star this repo if you found it helpful!
 </div>
+
 ---
 
 ## Screenshot 
