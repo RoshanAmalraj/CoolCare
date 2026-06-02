@@ -643,3 +643,46 @@ Made with ❤️ in India 🇮🇳
 ⭐ Star this repo if you found it helpful!
 
 </div>
+## Screenshot 
+Home:
+<img width="1600" height="720" alt="Screenshot_2026-06-01-19-05-24-70_4aed3257f278fcf7bfa3abd644e23333" src="https://github.com/user-attachments/assets/77f6ff2c-732a-411b-8ad9-8e69f51fc2b1" />
+
+Technician Registration:
+<img width="1600" height="720" alt="Screenshot_2026-06-01-19-08-47-12_4aed3257f278fcf7bfa3abd644e23333" src="https://github.com/user-attachments/assets/091b5702-ff2a-4183-99b5-3fbcdc686fca" />
+
+Technician Login:
+<img width="1600" height="720" alt="Screenshot_2026-06-01-19-05-59-86_4aed3257f278fcf7bfa3abd644e23333" src="https://github.com/user-attachments/assets/6a110098-a5ad-4ec3-847b-2ba4a7e3463e" />
+
+Technician Page:
+<img width="1600" height="720" alt="Screenshot_2026-06-01-19-06-04-41_4aed3257f278fcf7bfa3abd644e23333" src="https://github.com/user-attachments/assets/219fa5ff-fc25-4ae6-b653-c8d10c43ceec" />
+
+Technician work Confirmation:
+<img width="1600" height="720" alt="Screenshot_2026-06-01-19-12-33-81_4aed3257f278fcf7bfa3abd644e23333" src="https://github.com/user-attachments/assets/6652c1d2-27e8-4391-83bd-8fe7af4edd29" />
+
+OTP Verification:
+<img width="1600" height="720" alt="Screenshot_2026-06-01-19-06-25-56_4aed3257f278fcf7bfa3abd644e23333" src="https://github.com/user-attachments/assets/185d922e-51a8-49d5-b32d-a997fc653234" />
+
+Work Start Page:
+<img width="1600" height="720" alt="Screenshot_2026-06-01-19-06-34-26_4aed3257f278fcf7bfa3abd644e23333" src="https://github.com/user-attachments/assets/9bfa12cd-7e4c-4966-a44e-9213cd6bbc8a" />
+
+Customer Registration:
+<img width="1600" height="720" alt="Screenshot_2026-06-01-19-09-01-96_4aed3257f278fcf7bfa3abd644e23333" src="https://github.com/user-attachments/assets/6ac7d720-9436-4984-96bb-fd61c1963c94" />
+
+Customer Page:
+<img width="1600" height="720" alt="Screenshot_2026-06-01-19-07-31-89_4aed3257f278fcf7bfa3abd644e23333" src="https://github.com/user-attachments/assets/90ef5206-456f-4665-a478-67a328f7d8f4" />
+
+OTP Generate:
+<img width="1600" height="720" alt="Screenshot_2026-06-01-19-08-03-87_4aed3257f278fcf7bfa3abd644e23333" src="https://github.com/user-attachments/assets/60c067d1-e6b3-4a9c-a5d8-ad8990601379" />
+
+Online Reciept:
+<img width="1600" height="720" alt="Screenshot_2026-06-01-19-08-32-40_4aed3257f278fcf7bfa3abd644e23333" src="https://github.com/user-attachments/assets/a0302999-03a7-415b-8827-ab7448d8e2d5" />
+
+Feedback:
+<img width="1600" height="720" alt="Screenshot_2026-06-01-19-08-16-23_4aed3257f278fcf7bfa3abd644e23333" src="https://github.com/user-attachments/assets/6729e80f-a73a-4cd5-8009-42400de5b52f" />
+
+App Features:
+<img width="1600" height="720" alt="Screenshot_2026-06-01-19-09-45-09_4aed3257f278fcf7bfa3abd644e23333" src="https://github.com/user-attachments/assets/99316d07-c2b8-46ad-99d6-aa6f63028d12" />
+
+Appliance Repair:
+<img width="1600" height="720" alt="Screenshot_2026-06-01-19-09-20-11_4aed3257f278fcf7bfa3abd644e23333" src="https://github.com/user-attachments/assets/8fd60b99-0384-4d04-a077-283be38f4426" />
+
