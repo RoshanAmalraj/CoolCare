@@ -599,7 +599,7 @@ Login to Django Admin → Manage Technicians
 
 *Python Django Developer*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](linkedin.com/in/ roshan-amalraj-3590)
+[![LinkedIn](linkedin.com/in/ roshan-amalraj-3590)]
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d4ff?style=for-the-badge&logo=globe)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:your@email.com)
