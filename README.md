@@ -1,9 +1,9 @@
-# Cool Are 🔧❄️
+# Cool Care 🔧❄️
 ### Trusted Home Appliance Repair Service Platform for India
 
 <div align="center">
 
-![Cool Are Banner](https://img.shields.io/badge/Cool%20Are-Home%20Repair%20Platform-00d4ff?style=for-the-badge&logo=tools&logoColor=white)
+![Cool Care Banner](https://img.shields.io/badge/Cool%20Are-Home%20Repair%20Platform-00d4ff?style=for-the-badge&logo=tools&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-4.x-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
