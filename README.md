@@ -11,7 +11,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-**[🌐 Live Demo](https://charming-horse-328bb3.netlify.app)** • **[📱 Mobile Friendly](#responsive-design)** • **[🔐 OTP Secured](#security)**
+**[🌐 Live Demo](https://coolcare-app.netlify.app)** • **[📱 Mobile Friendly](#responsive-design)** • **[🔐 OTP Secured](#security)**
 
 </div>
 
@@ -43,7 +43,7 @@
 
 ## 🏠 About the Project
 
-**Cool Are** is a full-stack home appliance repair service platform built exclusively for Indian users. It connects **customers** who need appliance repairs with **certified local technicians** — making the entire booking, verification, tracking, and completion process digital, fast, and secure.
+**Cool Care** is a full-stack home appliance repair service platform built exclusively for Indian users. It connects **customers** who need appliance repairs with **certified local technicians** — making the entire booking, verification, tracking, and completion process digital, fast, and secure.
 
 Inspired by platforms like **Urban Company**, Cool Are brings a premium service booking experience to cities and towns across India.
 
@@ -61,7 +61,7 @@ Millions of Indian households face a daily frustration:
 - ❌ No **record** of work done or money paid
 - ❌ Booking is done over **phone calls** with no tracking
 
-**Cool Are solves all of this** with a structured digital platform where every step — from booking to payment receipt — is handled transparently and securely.
+**Cool Care solves all of this** with a structured digital platform where every step — from booking to payment receipt — is handled transparently and securely.
 
 ---
 
@@ -69,7 +69,7 @@ Millions of Indian households face a daily frustration:
 
 | Link | Description |
 |------|-------------|
-| 🔗 [charming-horse-328bb3.netlify.app](https://charming-horse-328bb3.netlify.app) | Live production site |
+| 🔗 [https://coolcare-app.netlify.app](https://coolcare-app.netlify.app) | Live production site |
 
 ### Demo Credentials
 
@@ -197,10 +197,10 @@ Custom scrollbars and toast notifications
 ## 📁 Project Structure
 
 ```
-cool-are/
+cool-Care/
 │
 ├── 📁 backend/                    # Django backend
-│   ├── 📁 coolare/               # Main Django project
+│   ├── 📁 coolcare/               # Main Django project
 │   │   ├── settings.py
 │   │   ├── urls.py
 │   │   ├── wsgi.py
@@ -638,7 +638,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 Made with ❤️ in India 🇮🇳
 
-**Cool Are — Trusted Home Appliance Repair Services Across India**
+**Cool Care — Trusted Home Appliance Repair Services Across India**
 
 ⭐ Star this repo if you found it helpful!
 </div>
