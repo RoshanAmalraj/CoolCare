@@ -641,8 +641,8 @@ Made with ❤️ in India 🇮🇳
 **Cool Are — Trusted Home Appliance Repair Services Across India**
 
 ⭐ Star this repo if you found it helpful!
-
 </div>
+---
 ## Screenshot 
 Home:
 <img width="1600" height="720" alt="Screenshot_2026-06-01-19-05-24-70_4aed3257f278fcf7bfa3abd644e23333" src="https://github.com/user-attachments/assets/77f6ff2c-732a-411b-8ad9-8e69f51fc2b1" />
@@ -686,3 +686,4 @@ App Features:
 Appliance Repair:
 <img width="1600" height="720" alt="Screenshot_2026-06-01-19-09-20-11_4aed3257f278fcf7bfa3abd644e23333" src="https://github.com/user-attachments/assets/8fd60b99-0384-4d04-a077-283be38f4426" />
 
+---
