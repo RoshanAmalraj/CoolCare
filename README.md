@@ -479,21 +479,7 @@ POST   /api/otp/verify/                 →  Verify OTP
 
 ---
 
-## 📸 Screenshots
 
-| Screen | Description |
-|--------|-------------|
-| 🏠 Landing Page | Hero section with animated 3D cards |
-| 🔧 Technician Login | Glowing form with Worker ID verification |
-| 📊 Tech Dashboard | Job cards with stats and filter chips |
-| 👤 Customer Dashboard | Appliance category cards |
-| 📋 Complaint Form | Live GPS location detection |
-| 📲 OTP Screen | 6-box OTP input with dynamic code |
-| ⏱️ Work Timer | Live countdown with Start/Pause/Finish |
-| 🧾 Digital Receipt | Full receipt with real technician name |
-| ⭐ Feedback Page | 5-star interactive rating |
-
-> 📁 Screenshots available in `/docs/screenshots/` folder
 
 ---
 
