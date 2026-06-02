@@ -689,3 +689,11 @@ Appliance Repair:
 <img width="1600" height="720" alt="Screenshot_2026-06-01-19-09-20-11_4aed3257f278fcf7bfa3abd644e23333" src="https://github.com/user-attachments/assets/8fd60b99-0384-4d04-a077-283be38f4426" />
 
 ---
+
+## Demo Video:
+
+
+
+https://github.com/user-attachments/assets/6f371478-54cd-4d17-bef4-9c4ecb97068d
+
+
